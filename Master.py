@@ -12,7 +12,7 @@ from Crypto.Cipher import AES
 from Crypto import Random
 
 
-banner = pyfiglet.figlet_format(" HYBRID CRYPTOGRAPHIC SYSTEM")
+banner = pyfiglet.figlet_format(" HYBRID CRYPTOGRAPHIC ALGORITHM")
 print(colored(banner,'green'))
 
 ch = 0
