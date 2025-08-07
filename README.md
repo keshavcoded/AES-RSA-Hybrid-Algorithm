@@ -4,7 +4,7 @@
 
 A hybrid cryptographic algorithm is designed using a symmetric key algorithm and a asymmetric key algorithm, Moreover LSB steganography technique is applied for additional security. 
 
-Here the symmetric key algorithm used is Advanced Encryption Standard (AES) and the asymmetric key algorithm used is RSA (Rivest-Shamir-Adleman). 
+Here the symmetric key algorithm used is Advanced Encryption Standard (AES) and the asymmetric key algorithm used is Rivest-Shamir-Adleman (RSA). 
 
 **Encryption (Sender side):** 
 
@@ -25,3 +25,4 @@ After designing the encryption and decryption phases separately, both the phases
 
 ![](./images/Aspose.Words.8b7bb91e-6cf0-4937-818f-92adbc2b6709.003.jpeg)
  
+
